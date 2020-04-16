@@ -1,5 +1,5 @@
-class Controller < ApplicationController
+class HomeController < ApplicationController
   def top
-  	@name = 'Ninomiya'
+  	# @name = 'Ninomiya'
   end
 end
